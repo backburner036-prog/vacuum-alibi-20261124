@@ -1,6 +1,8 @@
 // The Vacuum's Alibi — make.fun entry
-// Line (124 bytes): deadpan machine voice, smug about its lidar, surprise
-// turn (protected habitat for dust bunnies), punch at the end.
+// Line (124 bytes, 124 chars): deadpan machine voice, smug about its
+// lidar, surprise turn (protected habitat for dust bunnies), punch at
+// the end. Criteria order: funny excuse first, real laugh, machine
+// voice, surprise, every word earns its place.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
